@@ -6,3 +6,6 @@ Private Cheat (ESP-AIM) for VALORANT
 Detected ? : No
 
 How to launch ? : Launch Valorant, launch PCH.exe, press F8, ENJOY !!!
+
+Last check : 22/12/2022
+State : WORKING & UNDETECTABLE
